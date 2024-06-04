@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\github test\\webapplication\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\github test\\webapplication\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\github test\\webapplication\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\github test\\webapplication\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Anves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\github test\\webapplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anves\\AppData\\Roaming\\NuGet\\NuGet.Config",

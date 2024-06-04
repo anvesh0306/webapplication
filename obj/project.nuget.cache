@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Vobv/ut33hFVtXUyXBmYotTMF+AwXXPTTftzQrjQ2fFzdkczccen2/wI9WHRTi5B36FT/xx5jHrVKkgzrTE/w==",
+  "dgSpecHash": "GPFRjO7WSILytrZIdU20/FP4Pae+DyQiYtVtzyiy9FpOHpN+T3JvOYldCuejbIbpR6unUovpa0ok/F2a/2tIgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anves\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\github test\\webapplication\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anves\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Anves\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
