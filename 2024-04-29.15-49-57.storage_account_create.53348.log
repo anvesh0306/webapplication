@@ -1,0 +1,5 @@
+CMD-LOG-LINE-BEGIN 53348 | 2024-04-29 15:49:57,861 | INFO | az_command_data_logger | command args: storage account create --name {} --resource-group {} --location {} --sku {} --kind {} --allow-blob-public-access {}
+CMD-LOG-LINE-BEGIN 53348 | 2024-04-29 15:50:01,334 | ERROR | az_command_data_logger | (AccountNameInvalid) st-sample-group-001 is not a valid storage account name. Storage account name must be between 3 and 24 characters in length and use numbers and lower-case letters only.
+Code: AccountNameInvalid
+Message: st-sample-group-001 is not a valid storage account name. Storage account name must be between 3 and 24 characters in length and use numbers and lower-case letters only.
+CMD-LOG-LINE-BEGIN 53348 | 2024-04-29 15:50:01,339 | INFO | az_command_data_logger | exit code: 1

@@ -1,0 +1,3 @@
+CMD-LOG-LINE-BEGIN 69072 | 2024-04-29 15:08:44,350 | INFO | az_command_data_logger | command args: deployment group create --resource-group {} --template-file {}
+CMD-LOG-LINE-BEGIN 69072 | 2024-04-29 15:08:44,548 | ERROR | az_command_data_logger | [Errno 2] No such file or directory: 'Storag-accounts.json'
+CMD-LOG-LINE-BEGIN 69072 | 2024-04-29 15:08:44,548 | INFO | az_command_data_logger | exit code: 1
