@@ -1,9 +1,0 @@
-CMD-LOG-LINE-BEGIN 74828 | 2024-04-29 15:13:04,001 | INFO | az_command_data_logger | command args: deployment group create --resource-group {} --template-file {}
-CMD-LOG-LINE-BEGIN 74828 | 2024-04-29 15:13:07,581 | ERROR | az_command_data_logger | {"code": "InvalidTemplateDeployment", "message": "The template deployment 'storage-account' is not valid according to the validation procedure. The tracking id is '2555324f-c494-4b81-a4ab-c8a154d4b6d2'. See inner errors for details."}
-
-Inner Errors: 
-{"code": "PreflightValidationCheckFailed", "message": "Preflight validation failed. Please refer to the details for the specific errors."}
-
-Inner Errors: 
-{"code": "AccountNameInvalid", "target": "Areddipalli-st", "message": "Areddipalli-st is not a valid storage account name. Storage account name must be between 3 and 24 characters in length and use numbers and lower-case letters only."}
-CMD-LOG-LINE-BEGIN 74828 | 2024-04-29 15:13:07,587 | INFO | az_command_data_logger | exit code: 1

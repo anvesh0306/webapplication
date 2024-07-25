@@ -1,2 +1,0 @@
-CMD-LOG-LINE-BEGIN 4072 | 2024-04-29 15:40:16,383 | INFO | az_command_data_logger | command args: group create --name {} --location {}
-CMD-LOG-LINE-BEGIN 4072 | 2024-04-29 15:40:20,061 | INFO | az_command_data_logger | exit code: 0
